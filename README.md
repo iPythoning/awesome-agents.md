@@ -361,6 +361,7 @@ Real-world projects implementing AGENTS.md, AGENT.md, or CLAUDE.md for AI agent 
 - [sst/opencode](https://github.com/sst/opencode) - Issue/discussion on `AGENT.md` vs `AGENTS.md`, showing ecosystem early-stage. ![](https://img.shields.io/github/stars/sst/opencode?style=social)
 - [anthropics/claude-code](https://github.com/anthropics/claude-code) - Discussion of adding support for `AGENTS.md`. ![](https://img.shields.io/github/stars/anthropics/claude-code?style=social)
 - [davila7/claude-code-templates](https://github.com/davila7/claude-code-templates) - CLI tool with 160+ ready-to-use AI agents, custom commands, MCPs, and complete project templates for Claude Code. [Browse templates](https://www.aitmpl.com/agents) ![](https://img.shields.io/github/stars/davila7/claude-code-templates?style=social)
+- [iPythoning/aicfg](https://github.com/iPythoning/aicfg) - AGENTS.md ecosystem tool: generate, validate, and manage agent configs with automatic shim files for 20+ AI coding tools. ![](https://img.shields.io/github/stars/iPythoning/aicfg?style=social)
 
 ## Contribute
 
