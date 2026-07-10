@@ -1,5 +1,9 @@
 # Awesome Agents [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
+<!-- bmc:front -->
+<p align="center"><a href="https://buymeacoffee.com/dayongfan"><img src="https://img.buymeacoffee.com/button-api/?text=Buy%20me%20a%20coffee&amp;emoji=&amp;slug=dayongfan&amp;button_colour=FFDD00&amp;font_colour=000000&amp;font_family=Cookie&amp;outline_colour=000000&amp;coffee_colour=ffffff" alt="Buy me a coffee"></a></p>
+<!-- /bmc:front -->
+
 > A curated list of resources, examples, and tools for [AGENTS.md](https://agents.md) — a simple, open format for guiding coding agents.
 
 AGENTS.md is used by over 20,000 open-source projects. Think of it as a README for agents: a dedicated, predictable place to provide context and instructions to help AI coding agents work on your project.
@@ -177,6 +181,10 @@ Real-world projects implementing AGENTS.md, AGENT.md, or CLAUDE.md for AI agent 
 - [Architect Review](https://github.com/davila7/claude-code-templates/blob/main/cli-tool/components/agents/expert-advisors/architect-review.md) - Use this agent to review code for architectural consistency and patterns. Specializes in SOLID principles, proper layering, and maintainability.
 - [Dependency Manager](https://github.com/davila7/claude-code-templates/blob/main/cli-tool/components/agents/expert-advisors/dependency-manager.md) - Use this agent to manage project dependencies. Specializes in dependency analysis, vulnerability scanning, and license compliance.
 - [Documentation Expert](https://github.com/davila7/claude-code-templates/blob/main/cli-tool/components/agents/expert-advisors/documentation-expert.md) - Use this agent to create, improve, and maintain project documentation. Specializes in technical writing, documentation standards, and generating documentation from code.
+
+<!-- bmc:middle -->
+<p align="center"><a href="https://buymeacoffee.com/dayongfan"><img src="https://img.buymeacoffee.com/button-api/?text=Buy%20me%20a%20coffee&amp;emoji=&amp;slug=dayongfan&amp;button_colour=FFDD00&amp;font_colour=000000&amp;font_family=Cookie&amp;outline_colour=000000&amp;coffee_colour=ffffff" alt="Buy me a coffee"></a></p>
+<!-- /bmc:middle -->
 
 ### FFmpeg Clip Team
 
@@ -367,6 +375,6 @@ Real-world projects implementing AGENTS.md, AGENT.md, or CLAUDE.md for AI agent 
 
 Contributions welcome! Read the [contribution guidelines](contributing.md) first.
 
-## Support
-
-[![Buy me a coffee](https://img.buymeacoffee.com/button-api/?text=Buy%20me%20a%20coffee&emoji=&slug=dayongfan&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff)](https://buymeacoffee.com/dayongfan)
+<!-- bmc:end -->
+<p align="center"><a href="https://buymeacoffee.com/dayongfan"><img src="https://img.buymeacoffee.com/button-api/?text=Buy%20me%20a%20coffee&amp;emoji=&amp;slug=dayongfan&amp;button_colour=FFDD00&amp;font_colour=000000&amp;font_family=Cookie&amp;outline_colour=000000&amp;coffee_colour=ffffff" alt="Buy me a coffee"></a></p>
+<!-- /bmc:end -->
